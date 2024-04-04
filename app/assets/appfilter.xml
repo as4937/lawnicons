@@ -5424,6 +5424,7 @@
   <item component="ComponentInfo{com.netease.cloudmusic/com.squareup.leakcanary.internal.DisplayLeakActivity}" drawable="netease_music" name="NetEase Music" />
   <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias}" drawable="netease_music" name="NetEase Music" />
   <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_music" name="NetEase Music" />
+  <item component="ComponentInfo{com.netease.cloudmusic.lite/com.netease.cloudmusic.activity.MainActivity}" drawable="netease_music" name="NetEase Music Lite" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.battlenet.showguide.SplashActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" name="Netflix" />
   <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}" drawable="netflix" name="Netflix" />
@@ -6722,6 +6723,7 @@
   <item component="ComponentInfo{com.qooapp.qoohelper/com.qooapp.qoohelper.arch.welcome.BirthdayAlias}" drawable="qooapp" name="QooApp" />
   <item component="ComponentInfo{ch.alpsoft.qoqa.ui/com.qoqa.qoqa.views.activities.MainActivity}" drawable="qoqa" name="QoQa" />
   <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" name="QQ" />
+  <item component="ComponentInfo{com.tencent.qqlite/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" name="QQLite" />
   <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LaucherActivity}" drawable="qqmail" name="QQmail" />
   <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.LaucherActivity}" drawable="qqmail" name="QQmail" />
   <item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}" drawable="qqmail" name="QQmail" />
